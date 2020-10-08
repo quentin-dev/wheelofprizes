@@ -1,6 +1,6 @@
 # Wheel of Prizes
 
-A lazy copy of The Eric Andre Show's Wheel of prizes
+A lazy copy of The Eric Andre Show's Wheel of Prizes
 
 ## Made with
 
